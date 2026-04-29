@@ -1,2 +1,2 @@
 # westernlocate
-Recommendation AI system
+A Nearby Place Finder For Western Region
