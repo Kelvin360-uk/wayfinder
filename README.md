@@ -1,2 +1,2 @@
-# wayfinder
+# westernlocate
 Recommendation AI system
